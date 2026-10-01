@@ -1,3 +1,3 @@
-### 👋 Hi
+<img src="hi.svg" alt="hi" width="420">
 
-Building local-first AI tools. Most work is private.
+<!-- if you're reading this, you know. -->
